@@ -1,4 +1,4 @@
-# Welcome to Hospital Management demo(WIP)
+# Welcome to Hospital Management System demo(WIP)
 
 ## How can I edit this code?
 
